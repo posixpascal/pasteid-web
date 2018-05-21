@@ -17,7 +17,7 @@ const FETCH_OPTIONS = {
 
 class PasteService {
     constructor() {
-        this.api = (window.location.href.indexOf("localhost") > -1 ? "http://localhost:3002" : "https://api.paste.id";
+        this.api = (window.location.href.indexOf("localhost") > -1 ? "http://localhost:3002" : "https://api.paste.id");
     }
 
     get(id) {
