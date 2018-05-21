@@ -1,0 +1,3 @@
+export const CREATE_PASTE = "CREATE_PASTE";
+export const PUBLISHED_PASTE = "PUBLISHED_PASTE";
+export const RESET_PASTE = "RESET_PASTE";
