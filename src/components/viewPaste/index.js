@@ -24,9 +24,9 @@ class ViewPaste extends Component {
                 <div className="paste-id">
                     Paste ID: { this.state.id }
                 </div>
-                <div className="paste-content">
+                <textarea readonly="true" className="paste-box">
                     {this.state.content}
-                </div>
+                </textarea>
             </div>
         );
     }
