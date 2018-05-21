@@ -32,7 +32,10 @@ class App extends Component {
                 </Link>
                 </li>
                 <li>
-                  <a href="//github.com/posixpascal/pasteid-client">Sourcecode</a>
+                  <a href="//github.com/posixpascal/pasteid-web">Client Source</a>
+                </li>
+                <li>
+                  <a href="//github.com/posixpascal/pasteid-server">Server Source</a>
                 </li>
               </ul>
             </div>
